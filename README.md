@@ -1,2 +1,3 @@
-# Animate-like-apple
- A clone of iphone xs website
+*READ ME*
+
+This is a cloned website of iPhoneXs made for a college project
